@@ -1,6 +1,6 @@
 {
   "name": "creating-node-module-raoole20-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test nodejs packages",
   "main": "index.js",
   "scripts": {
